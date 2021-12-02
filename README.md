@@ -1,6 +1,6 @@
 ### Oi 👋
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho como Analista de Suporte
 - 🌱 Estudando NodeJS
 - 💬 E-mail de contato: piterboscolo@gmail.com
 
