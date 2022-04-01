@@ -1,7 +1,7 @@
 ### Oi 👋
 
 - 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Buscando conhecimento em NodeJS
+- 🌱 Conhecimento em NodeJs, Javascript (ES6,7 e 8), Promises e Async/Await, OExpress, API Rest, API Rest com JWT, Vue, Knex.js, Socket.io, MySQL, MongoDB, TDD 
 - 💬 E-mail de contato: piterboscolo@gmail.com
 
 <div align="center">
