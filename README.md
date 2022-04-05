@@ -1,25 +1,66 @@
-### Oi 👋
+<span align="center">
 
-- 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Conhecimento em NodeJs, Javascript (ES6,7 e 8), Promises e Async/Await, OExpress, API Rest, API Rest com JWT, Vue, Knex.js, Socket.io, MySQL, MongoDB, TDD 
-- 💬 E-mail de contato: piterboscolo@gmail.com
+<!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
+## <h2> Olá seja bem-vindo(a)!</h2>
+</span>
 
 <div align="center">
-  <a href="https://github.com/piterboscolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piterboscolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piterboscolo&layout=compact&langs_count=7&theme=dracula"/>
+
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+<p align="center">
   
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://instagram.com/murilo.boscolo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/#8196" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-     
-</div>
+Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
+e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, Curso em Vídeo, Udemy ...</strong>.
+</p>
+
+<p align="center">
+  Hability: <strong> MySql, MongoDB, NodeJS, JavaScript, CSS, HTML.</strong>
+</p>
+
+<p align="center">
+  Knowledge: <strong>MySQL, Javascript, NodeJS, GitHub.</strong>
+</p>
+
+## Contact
+
+<p align="center">
+  <a href="https://api.whatsapp.com/send?phone=5511983069791/" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
+  <a href="https://www.linkedin.com/in/flavioguisantos" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flávio-guilherme-dos-santos-207b2856/"/></a>
+</p>
+
+## Technologies & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25"/>
+
+
+
+
+</p>
+
+## GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=flavioguisantos&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flavioguisantos&hide=css,java,html&theme=tokyonight">
+</p>
