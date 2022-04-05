@@ -14,7 +14,7 @@
 <p align="center">
   
 Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
-e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, Curso em Vídeo, Udemy ... </strong>.
+e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, Curso em Vídeo, Udemy ... </strong>
 </p>
 
 <p align="center">
