@@ -17,9 +17,6 @@ Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
 e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, Curso em Vídeo, Udemy ... </strong>
 </p>
 
-<p align="center">
-  Hability: <strong> NodeJS, JavaScript, CSS, HTML.</strong>
-</p>
 
 <p align="center">
   Knowledge: <strong>MySQL, Javascript, NodeJS, GitHub.</strong>
