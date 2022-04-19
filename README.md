@@ -19,7 +19,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 
 
 <p align="center">
-  Knowledge: <strong>MySQL, Javascript, NodeJS, GitHub.</strong>
+  Knowledge: <strong>Javascript, NodeJS, GitHub e MySQL.</strong>
 </p>
 
 ## Contact
