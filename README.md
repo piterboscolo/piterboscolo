@@ -1,4 +1,4 @@
-# 💫 Oi! eu sou Piterson Murilo Boscolo
+#  Oi! sou Piterson Murilo Boscolo
 🔭 I’m currently working on Backend <br><br>🌱 I’m currently learning NodeJS | Typescript | 
 
 
